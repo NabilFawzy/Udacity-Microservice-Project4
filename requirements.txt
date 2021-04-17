@@ -1,0 +1,14 @@
+Click
+Flask
+itsdangerous
+Jinja2
+MarkupSafe
+numpy
+pandas
+python-dateutil
+pytz
+pylint==2.4.4
+scikit-learn
+scipy
+six
+Werkzeug
