@@ -7,7 +7,7 @@ numpy
 pandas
 python-dateutil
 pytz
-pylint==2.4.4
+pylint
 scikit-learn
 scipy
 six
