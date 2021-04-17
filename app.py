@@ -1,3 +1,4 @@
+framework_version = '0.23-1'
 from flask import Flask, request, jsonify
 from flask.logging import create_logger
 import logging
