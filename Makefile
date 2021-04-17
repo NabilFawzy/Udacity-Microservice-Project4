@@ -28,7 +28,8 @@ lint:
 	# This is linter for Dockerfiles
 	wget -O ./hadolint https://github.com/hadolint/hadolint/releases/download/v1.16.3/hadolint-Linux-x86_64 &&\
     chmod +x ./hadolint
-	hadolint Dockerfile
+
+	./hadolint Dockerfile
 
 
 	# This is a linter for Python source code linter: https://www.pylint.org/
