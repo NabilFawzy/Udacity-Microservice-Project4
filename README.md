@@ -31,7 +31,8 @@ Running app.py
     Run in Docker: ./run_docker.sh
     Run in Kubernetes: ./run_kubernetes.sh
 
-Prediction : ./make_prediction
+Prediction : 
+                ./make_prediction
 
 Other files and folders:
 
